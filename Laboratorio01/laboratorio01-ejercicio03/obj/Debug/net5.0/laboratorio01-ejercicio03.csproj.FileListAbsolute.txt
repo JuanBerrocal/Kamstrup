@@ -1,0 +1,16 @@
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\bin\Debug\net5.0\laboratorio01-ejercicio03.exe
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\bin\Debug\net5.0\laboratorio01-ejercicio03.deps.json
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\bin\Debug\net5.0\laboratorio01-ejercicio03.runtimeconfig.json
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\bin\Debug\net5.0\laboratorio01-ejercicio03.runtimeconfig.dev.json
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\bin\Debug\net5.0\laboratorio01-ejercicio03.dll
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\bin\Debug\net5.0\laboratorio01-ejercicio03.pdb
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\laboratorio01-ejercicio03.csproj.AssemblyReference.cache
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\laboratorio01-ejercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\laboratorio01-ejercicio03.AssemblyInfoInputs.cache
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\laboratorio01-ejercicio03.AssemblyInfo.cs
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\laboratorio01-ejercicio03.csproj.CoreCompileInputs.cache
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\laboratorio01-ejercicio03.dll
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\refint\laboratorio01-ejercicio03.dll
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\laboratorio01-ejercicio03.pdb
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\laboratorio01-ejercicio03.genruntimeconfig.cache
+C:\Development\.net\kamstrup\Laboratorio01-ejercicio01\laboratorio01-ejercicio03\obj\Debug\net5.0\ref\laboratorio01-ejercicio03.dll
