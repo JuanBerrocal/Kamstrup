@@ -1,0 +1,16 @@
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\bin\Debug\net5.0\Laboratorio02-ejercicio01.exe
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\bin\Debug\net5.0\Laboratorio02-ejercicio01.deps.json
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\bin\Debug\net5.0\Laboratorio02-ejercicio01.runtimeconfig.json
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\bin\Debug\net5.0\Laboratorio02-ejercicio01.runtimeconfig.dev.json
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\bin\Debug\net5.0\Laboratorio02-ejercicio01.dll
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\bin\Debug\net5.0\Laboratorio02-ejercicio01.pdb
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\Laboratorio02-ejercicio01.csproj.AssemblyReference.cache
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\Laboratorio02-ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\Laboratorio02-ejercicio01.AssemblyInfoInputs.cache
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\Laboratorio02-ejercicio01.AssemblyInfo.cs
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\Laboratorio02-ejercicio01.csproj.CoreCompileInputs.cache
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\Laboratorio02-ejercicio01.dll
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\refint\Laboratorio02-ejercicio01.dll
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\Laboratorio02-ejercicio01.pdb
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\Laboratorio02-ejercicio01.genruntimeconfig.cache
+C:\Development\.net\kamstrup\Laboratorio02\Laboratorio02-ejercicio01\obj\Debug\net5.0\ref\Laboratorio02-ejercicio01.dll
