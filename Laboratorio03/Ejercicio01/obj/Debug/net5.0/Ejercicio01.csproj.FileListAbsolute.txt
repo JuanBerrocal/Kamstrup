@@ -1,0 +1,16 @@
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\bin\Debug\net5.0\Ejercicio01.exe
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\bin\Debug\net5.0\Ejercicio01.deps.json
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\bin\Debug\net5.0\Ejercicio01.runtimeconfig.json
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\bin\Debug\net5.0\Ejercicio01.runtimeconfig.dev.json
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\bin\Debug\net5.0\Ejercicio01.dll
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\bin\Debug\net5.0\Ejercicio01.pdb
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\Ejercicio01.csproj.AssemblyReference.cache
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\Ejercicio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\Ejercicio01.AssemblyInfoInputs.cache
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\Ejercicio01.AssemblyInfo.cs
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\Ejercicio01.csproj.CoreCompileInputs.cache
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\Ejercicio01.dll
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\refint\Ejercicio01.dll
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\Ejercicio01.pdb
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\Ejercicio01.genruntimeconfig.cache
+C:\Development\.net\kamstrup\Laboratorio03\Ejercicio01\obj\Debug\net5.0\ref\Ejercicio01.dll
