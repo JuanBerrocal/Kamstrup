@@ -1,0 +1,16 @@
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\bin\Debug\net5.0\Laboratorio04.exe
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\bin\Debug\net5.0\Laboratorio04.deps.json
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\bin\Debug\net5.0\Laboratorio04.runtimeconfig.json
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\bin\Debug\net5.0\Laboratorio04.runtimeconfig.dev.json
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\bin\Debug\net5.0\Laboratorio04.dll
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\bin\Debug\net5.0\Laboratorio04.pdb
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\Laboratorio04.csproj.AssemblyReference.cache
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\Laboratorio04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\Laboratorio04.AssemblyInfoInputs.cache
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\Laboratorio04.AssemblyInfo.cs
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\Laboratorio04.csproj.CoreCompileInputs.cache
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\Laboratorio04.dll
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\refint\Laboratorio04.dll
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\Laboratorio04.pdb
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\Laboratorio04.genruntimeconfig.cache
+C:\Development\.net\kamstrup\Laboratorio04\Laboratorio04\obj\Debug\net5.0\ref\Laboratorio04.dll
