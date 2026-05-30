@@ -3,9 +3,16 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{85CD9D25-51B7-4FAF-91BC-DB1BDE6B5DE2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio1", "Ejercicio1\Ejercicio1.csproj", "{85CD9D25-51B7-4FAF-91BC-DB1BDE6B5DE2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio1Test", "Ejercicio1Test\Ejercicio1Test.csproj", "{C9290640-51DD-491F-8F9C-2221123838D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ejercicio1Test", "Ejercicio1Test\Ejercicio1Test.csproj", "{C9290640-51DD-491F-8F9C-2221123838D4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2", "Ejercicio2\Ejercicio2.csproj", "{D07528E3-809F-4513-9F66-A6F6D4C7A3A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio2Test", "Ejercicio2Test\Ejercicio2Test.csproj", "{CB8D7C80-2482-4137-B8DB-CCD19B976BDE}"
+	ProjectSection(ProjectDependencies) = postProject
+		{D07528E3-809F-4513-9F66-A6F6D4C7A3A8} = {D07528E3-809F-4513-9F66-A6F6D4C7A3A8}
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +28,14 @@ Global
 		{C9290640-51DD-491F-8F9C-2221123838D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9290640-51DD-491F-8F9C-2221123838D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9290640-51DD-491F-8F9C-2221123838D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D07528E3-809F-4513-9F66-A6F6D4C7A3A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D07528E3-809F-4513-9F66-A6F6D4C7A3A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D07528E3-809F-4513-9F66-A6F6D4C7A3A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D07528E3-809F-4513-9F66-A6F6D4C7A3A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CB8D7C80-2482-4137-B8DB-CCD19B976BDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CB8D7C80-2482-4137-B8DB-CCD19B976BDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CB8D7C80-2482-4137-B8DB-CCD19B976BDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CB8D7C80-2482-4137-B8DB-CCD19B976BDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
